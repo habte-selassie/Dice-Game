@@ -13,7 +13,7 @@ To use this application clone this repository by running the following command i
 
 bash
 Copy code
-git clone https://github.com/habteselassie/dice-game.git
+git clone https://github.com/habtuchelsea1000/dice-game.git
 After cloning the repository, navigate to the project directory and open the repository:
 The application should now be accessible at http://127.0.0.1:5500/Dice-Game-master/index.html
 
